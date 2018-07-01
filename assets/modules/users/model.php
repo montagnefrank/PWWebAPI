@@ -248,9 +248,9 @@
         userid = $(this).parent().parent().parent().find(".idUsuario_cont").html();
         username = $(this).parent().parent().parent().find(".userUsuario_cont").html();
         usernombre = $(this).parent().parent().parent().find(".nombreUsuario_cont").html();
-        userapellido = $(this).parent().parent().parent().find(".apellidoUsuario_cont").html();
-        usercargo = $(this).parent().parent().parent().find(".cedulaUsuario_cont").html();
-        userdep = $(this).parent().parent().parent().find(".estUsuario_cont").html();
+        userapellido = $(this).parent().parent().parent().find(".vehiculoUsuario_cont").html();
+        usercargo = $(this).parent().parent().parent().find(".phoneUsuario_cont").html();
+        userdep = $(this).parent().parent().parent().find(".placaUsuario_cont").html();
         userrol = $(this).parent().parent().parent().find(".rolUsuario_cont").html();
         userimg = $(this).parent().parent().parent().find(".imgUsuario_cont").html();
         $.when($(".userlist_panel,.newuser_btn,.newuser_panel").slideUp("slow"))
@@ -261,8 +261,6 @@
                     $("#edituserapellido_input").val(userapellido);
                     $("#editusercargo_input").val(usercargo);
                     $(".edituser_id_cont").html(userid);
-                    text = $("#edituser_est_select option[value='" + userdep + "']").text();
-                    $('#edituser_est_select').parent().find(' .bootstrap-select .filter-option').text(text);
                     $("#edituser_est_select").val(userdep);
                     text = $("#edituser_rol_select option[value='" + userrol + "']").text();
                     $('#edituser_rol_select').parent().find('.bootstrap-select .filter-option').text(text);

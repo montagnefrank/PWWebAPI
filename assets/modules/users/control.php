@@ -26,7 +26,7 @@ if (isset($_POST['addnewUser'])) {
         $msg_menu = " Ya existe el usuario en sistema, por favor seleccione un nombre de usuario diferente.";
         echo $msg_menu;
     } else {
-        $val_select = "INSERT INTO usuario(passwordUsuario,nombreUsuario,idPerfil,phoneUsuario,fechaingresoUsuario,nombresUsuario,apellidosUsuario,idEstablecimiento,statusUsuario,temaUsuario,panelUsuario) "
+        $val_select = "INSERT INTO usuario(passwordUsuario,nombreUsuario,idPerfil,phoneUsuario,fechaingresoUsuario,nombresUsuario,vehiculoUsuario,placaUsuario,statusUsuario,temaUsuario,panelUsuario) "
                 . "VALUES  ('" . $_POST['passUsuario'] . "','" . $_POST['userUsuario'] . "','" . $_POST['rolUsuario'] . "','" . $_POST['cedulaUsuario'] . "','" . date("Y-m-d") . "','" . $_POST['nombreUsuario'] . "','" . $_POST['apellidoUsuario'] . "','" . $_POST['estUsuario'] . "','1','dark','users')";
         $val_result = $conn->query($val_select) or die($conn->error);
 
@@ -45,9 +45,9 @@ if (isset($_POST['updateUser'])) {
     $val_select = "UPDATE usuario SET "
             . "nombreUsuario = '" . $_POST['userUsuario'] . "', "
             . "nombresUsuario = '" . $_POST['nombreUsuario'] . "', "
-            . "apellidosUsuario = '" . $_POST['apellidoUsuario'] . "', "
+            . "vehiculoUsuario = '" . $_POST['apellidoUsuario'] . "', "
             . "phoneUsuario = '" . $_POST['cedulaUsuario'] . "' , "
-            . "idEstablecimiento = '" . $_POST['estUsuario'] . "', "
+            . "placaUsuario = '" . $_POST['estUsuario'] . "', "
             . "idPerfil = '" . $_POST['rolUsuario'] . "' "
             . "WHERE idUsuario = '" . $_POST['idUsuario'] . "'";
     $val_result = $conn->query($val_select) or die($conn->error);
@@ -71,7 +71,7 @@ if (isset($_POST['getUsers'])) {
         } else {
             $checked = '';
         }
-        $isavatar = "../../assets/img/users/" . $menu_row['nombreUsuario'] . ".jpg";
+        $isavatar = "../../img/users/" . $menu_row['nombreUsuario'] . ".jpg";
         if (file_exists($isavatar)) {
             $imgusuario = "assets/img/users/" . $menu_row['nombreUsuario'];
         } else {
@@ -110,6 +110,9 @@ if (isset($_POST['getUsers'])) {
                         <div class="hidethis_force idUsuario_cont">' . $menu_row['idUsuario'] . '</div>
                         <div class="hidethis_force userUsuario_cont">' . $menu_row['nombreUsuario'] . '</div>
                         <div class="hidethis_force nombreUsuario_cont">' . $menu_row['nombresUsuario'] . '</div>
+                        <div class="hidethis_force phoneUsuario_cont">' . $menu_row['phoneUsuario'] . '</div>
+                        <div class="hidethis_force vehiculoUsuario_cont">' . $menu_row['vehiculoUsuario'] . '</div>
+                        <div class="hidethis_force placaUsuario_cont">' . $menu_row['placaUsuario'] . '</div>
                         <div class="hidethis_force rolUsuario_cont">' . $menu_row['idPerfil'] . '</div>
                         <div class="hidethis_force imgUsuario_cont">' . $imgusuario . '</div>
                     </div>
@@ -138,7 +141,7 @@ if (isset($_POST['restartPass'])){
 
 
     if ($val_result) {
-        $msg_logo .= " Se ha restablesido la contraseña del usuario <b>" . $_POST['nombreUsuario'] . " exitosamente, la contraseña es ahora dirulo1234 </b>.";
+        $msg_logo .= " Se ha restablesido la contraseña del usuario <b>" . $_POST['nombreUsuario'] . " exitosamente, la contraseña es ahora parkedwashed1234 </b>.";
         echo $msg_logo;
     } else {
         echo " No pudimos restablecer la contraseña del usuario. Intente de nuevo ";
@@ -148,31 +151,31 @@ if (isset($_POST['restartPass'])){
 //OBTENEMOS EL NOMRBE DEL ROL SEGUN SU ID
 function getrol($rol) {
     if ($rol == 1) {
-        $nombreRol = "ADMINISTRADOR DE LOCAL";
+        $nombreRol = "ADMINISTRADOR";
         return $nombreRol;
     }
     if ($rol == 2) {
-        $nombreRol = "SALONERO";
+        $nombreRol = "VALET";
         return $nombreRol;
     }
     if ($rol == 3) {
-        $nombreRol = "CAJERO CERTIFIDO";
+        $nombreRol = "USUARIO";
         return $nombreRol;
     }
     if ($rol == 4) {
-        $nombreRol = "MENSAJERO / REPARTIDOR";
+        $nombreRol = "KIOSKO";
         return $nombreRol;
     }
     if ($rol == 5) {
-        $nombreRol = "CONSERJE";
+        $nombreRol = "STAFF";
         return $nombreRol;
     }
     if ($rol == 6) {
-        $nombreRol = "GERENTE / AFINES";
+        $nombreRol = "SOPORTE TECNICO";
         return $nombreRol;
     }
     if ($rol == 7) {
-        $nombreRol = "SOPORTE TECNICO";
+        $nombreRol = "SUPER ADMINISTRADOR";
         return $nombreRol;
     }
 }

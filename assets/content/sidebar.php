@@ -38,7 +38,7 @@
                     <div class="profile-data-title">
                         <span class="fa fa-industry"></span> 
                         <?php
-                        echo 'HomeCubic';
+                        echo 'Parked & Washed';
                         ?>
                     </div>
                 </div>
@@ -54,11 +54,11 @@
                 <li><a href="#" gotopanel='users' class="menu_btn"> Usuarios</a></li>
             </ul>
         </li>  
-<!--        <li>
+        <li>
             <a href="#" gotopanel='tools' class="menu_btn">
                 <span class="fa fa-cogs"></span>
                 <span class="xn-text"> Herramientas</span>
             </a>
-        </li>-->
+        </li>
     </ul>
 </div>

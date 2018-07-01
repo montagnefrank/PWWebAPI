@@ -139,13 +139,13 @@
                                 <div class="col-md-9 col-xs-7">
                                     <select id="newuser_rol_select" class="form-control select" data-style="btn-success">
                                         <option value="0">Seleccione</option>
-                                        <option value="1">ADMINISTRADOR DE LOCAL</option>
-                                        <option value="2">SALONERO</option>
-                                        <option value="3">CAJERO CARTIFICADO</option>
-                                        <option value="4">MENSAJERO REPARTIDOR</option>
-                                        <option value="5">CONSERJE</option>
-                                        <option value="6">GERENTE / AFINES</option>
-                                        <option value="7">SOPORTE TECNICO</option>
+                                        <option value="1">ADMINISTRADOR</option>
+                                        <option value="2">VALET</option>
+                                        <option value="3">USUARIO</option>
+                                        <option value="4">KIOSKO</option>
+                                        <option value="5">STAFF</option>
+                                        <option value="6">SOPORTE TECNICO</option>
+                                        <option value="7">SUPER ADMINISTRADOR</option>
                                     </select>
                                 </div>
                             </div>       
@@ -211,7 +211,7 @@
                             <div class="form-group">
                                 <label class="col-md-3 col-xs-5 control-label">Placa</label>
                                 <div class="col-md-9 col-xs-7">
-                                    <input id="newuser_est_select" type="text" value="" placeholder="Ingresa la placa" maxlength="30" class="form-control numonly" required="required"/>
+                                    <input id="edituser_est_select" type="text" value="" placeholder="Ingresa la placa" maxlength="30" class="form-control numonly" required="required"/>
                                 </div>
                             </div>                                        
                             <div class="form-group">
@@ -219,13 +219,13 @@
                                 <div class="col-md-9 col-xs-7">
                                     <select id="edituser_rol_select" class="form-control select" data-style="btn-success">
                                         <option value="0">Seleccione</option>
-                                        <option value="1">ADMINISTRADOR DE LOCAL</option>
-                                        <option value="2">SALONERO</option>
-                                        <option value="3">CAJERO CARTIFICADO</option>
-                                        <option value="4">MENSAJERO REPARTIDOR</option>
-                                        <option value="5">CONSERJE</option>
-                                        <option value="6">GERENTE / AFINES</option>
-                                        <option value="7">SOPORTE TECNICO</option>
+                                        <option value="1">ADMINISTRADOR</option>
+                                        <option value="2">VALET</option>
+                                        <option value="3">USUARIO</option>
+                                        <option value="4">KIOSKO</option>
+                                        <option value="5">STAFF</option>
+                                        <option value="6">SOPORTE TECNICO</option>
+                                        <option value="7">SUPER ADMINISTRADOR</option>
                                     </select>
                                 </div>
                             </div>

@@ -13,7 +13,7 @@ $user = $_SESSION["user"];
 
 
 if (isset($_POST['newtheme'])) {
-    $update_theme = mysqli_query($link, "UPDATE hc_usuario SET temaUsuario = '" . $_POST['theme'] . "' WHERE userUsuario = '" . $user . "'");
+    $update_theme = mysqli_query($link, "UPDATE usuario SET temaUsuario = '" . $_POST['theme'] . "' WHERE userUsuario = '" . $user . "'");
     $_SESSION["tema"] = $_POST['theme'];
     $msg_theme .= " Tema actualizado con éxito. ";
     $box = "primary";
@@ -67,7 +67,7 @@ if (isset($_POST["submitnewavatar"])) {
             $msg_avatar .= " El archivo " . basename($_FILES["fileToUpload"]["name"]) . " Ahora es tu foto de Perfil.<br/>";
             $box = "primary";
         } else {
-            $msg_avatar .= " No se logró actualizar su foto de perfil." . $target_file;
+            $msg_avatar .= " No se logró actualizar su foto de perfil.";
             $box = "danger";
         }
     }
@@ -79,11 +79,11 @@ if (isset($_POST["submitnewavatar"])) {
 
 if (isset($_POST["submitnewpass"])) {
 
-    $select_compare = mysqli_query($link, "SELECT passUsuario FROM hc_usuario WHERE userUsuario = '" . $user . "'");
+    $select_compare = mysqli_query($link, "SELECT passUsuario FROM usuario WHERE userUsuario = '" . $user . "'");
     $row_compare = mysqli_fetch_row($select_compare);
     $compare = $row_compare[0];
     if ($_POST["oldpass"] == $compare) {
-        $update_pass = mysqli_query($link, "UPDATE hc_usuario SET passUsuario = '" . $_POST['newpass'] . "' WHERE userUsuario = '" . $user . "'");
+        $update_pass = mysqli_query($link, "UPDATE usuario SET passwordUsuario = '" . $_POST['newpass'] . "' WHERE userUsuario = '" . $user . "'");
         $msg_pass .= " Contraseña cambiada con éxito. ";
         $box = "primary";
     } else {
