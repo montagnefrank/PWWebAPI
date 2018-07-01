@@ -1,0 +1,11 @@
+# Private files
+
+dev/
+web/
+api/
+api/api.php
+nbproject/
+www.zip
+api.zip
+app.zip
+my.cnf

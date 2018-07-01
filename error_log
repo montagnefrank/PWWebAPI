@@ -1,0 +1,663 @@
+[27-Mar-2018 22:57:08 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[27-Mar-2018 22:57:08 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[27-Mar-2018 22:57:08 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[27-Mar-2018 22:57:08 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[27-Mar-2018 22:57:08 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[29-Mar-2018 03:40:24 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[29-Mar-2018 03:40:24 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[29-Mar-2018 03:40:24 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[29-Mar-2018 03:40:24 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[29-Mar-2018 03:40:24 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[29-Mar-2018 17:32:16 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[29-Mar-2018 17:32:16 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[29-Mar-2018 17:32:16 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[29-Mar-2018 17:32:16 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[29-Mar-2018 17:32:16 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[31-Mar-2018 19:53:47 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[31-Mar-2018 19:53:47 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[31-Mar-2018 19:53:47 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[31-Mar-2018 19:53:47 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[31-Mar-2018 19:53:47 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[01-Apr-2018 19:55:06 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[01-Apr-2018 19:55:06 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[01-Apr-2018 19:55:06 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[01-Apr-2018 19:55:06 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[01-Apr-2018 19:55:06 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[01-Apr-2018 19:55:20 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[01-Apr-2018 19:55:20 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[01-Apr-2018 19:55:20 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[01-Apr-2018 19:55:20 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[01-Apr-2018 19:55:25 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[01-Apr-2018 19:55:25 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[01-Apr-2018 19:55:25 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[01-Apr-2018 19:55:25 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[01-Apr-2018 19:55:34 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[01-Apr-2018 19:55:34 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[01-Apr-2018 19:55:34 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[01-Apr-2018 19:55:34 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[01-Apr-2018 19:56:11 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[01-Apr-2018 19:56:11 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[01-Apr-2018 19:56:11 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[01-Apr-2018 19:56:11 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[01-Apr-2018 20:09:31 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[01-Apr-2018 20:09:31 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[01-Apr-2018 20:09:31 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[01-Apr-2018 20:09:31 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[01-Apr-2018 20:10:20 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[01-Apr-2018 20:10:20 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[01-Apr-2018 20:10:20 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[01-Apr-2018 20:10:20 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[02-Apr-2018 04:13:16 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[02-Apr-2018 04:13:16 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[02-Apr-2018 04:13:16 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[02-Apr-2018 04:13:16 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[02-Apr-2018 04:13:16 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[02-Apr-2018 04:13:23 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[02-Apr-2018 04:13:23 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[02-Apr-2018 04:13:23 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[02-Apr-2018 04:13:23 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[02-Apr-2018 04:13:47 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[02-Apr-2018 04:13:47 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[02-Apr-2018 04:13:47 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[02-Apr-2018 04:13:47 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[02-Apr-2018 05:57:31 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[02-Apr-2018 05:57:31 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[02-Apr-2018 05:57:31 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[02-Apr-2018 05:57:31 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[02-Apr-2018 05:57:31 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[02-Apr-2018 05:57:37 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[02-Apr-2018 05:57:37 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[02-Apr-2018 05:57:37 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[02-Apr-2018 05:57:37 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[03-Apr-2018 01:12:37 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[03-Apr-2018 01:12:37 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[03-Apr-2018 01:12:37 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[03-Apr-2018 01:12:37 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[03-Apr-2018 01:12:37 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[03-Apr-2018 03:22:03 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[03-Apr-2018 03:22:03 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[03-Apr-2018 03:22:03 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[03-Apr-2018 03:22:03 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[03-Apr-2018 03:22:03 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[08-Apr-2018 20:45:13 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 20:45:13 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 20:45:13 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 20:45:13 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 20:45:13 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[08-Apr-2018 21:44:55 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:44:55 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:44:55 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:44:55 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 21:44:55 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[08-Apr-2018 21:45:04 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:45:04 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:45:04 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:45:04 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 21:45:15 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:45:15 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:45:15 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:45:15 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 21:45:19 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:45:19 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:45:19 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:45:19 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 21:45:46 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:45:46 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:45:46 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:45:46 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 21:45:52 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:45:52 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:45:52 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:45:52 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 21:45:57 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:45:57 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:45:57 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:45:57 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 21:47:20 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:47:20 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:47:20 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:47:20 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 21:47:25 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:47:25 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:47:25 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:47:25 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-Apr-2018 21:47:31 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-Apr-2018 21:47:31 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-Apr-2018 21:47:31 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-Apr-2018 21:47:31 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 13:36:59 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 13:36:59 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 13:36:59 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 13:36:59 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 13:36:59 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[09-Apr-2018 13:38:05 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 13:38:05 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 13:38:05 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 13:38:05 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 13:38:05 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[09-Apr-2018 13:38:19 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 13:38:19 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 13:38:19 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 13:38:19 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 13:38:19 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[09-Apr-2018 13:38:48 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 13:38:48 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 13:38:48 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 13:38:48 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 13:38:48 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[09-Apr-2018 13:42:20 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 13:42:20 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 13:42:20 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 13:42:20 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 13:42:20 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[09-Apr-2018 14:58:45 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 14:58:45 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 14:58:45 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 14:58:45 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 14:58:45 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[09-Apr-2018 14:59:21 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 14:59:21 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 14:59:21 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 14:59:21 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 15:00:22 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 15:00:22 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 15:00:22 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 15:00:22 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Undefined index: user in /home/homecubic/public_html/universe/main.php on line 11
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/main.php on line 12
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Undefined index: rol in /home/homecubic/public_html/universe/main.php on line 13
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Undefined index: tema in /home/homecubic/public_html/universe/main.php on line 14
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Undefined index: panel in /home/homecubic/public_html/universe/main.php on line 15
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Notice:  Undefined index: username in /home/homecubic/public_html/universe/assets/content/sidebar.php on line 32
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Warning:  require(assets/modules//view.php): failed to open stream: No such file or directory in /home/homecubic/public_html/universe/main.php on line 53
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Warning:  require(assets/modules//view.php): failed to open stream: No such file or directory in /home/homecubic/public_html/universe/main.php on line 53
+[09-Apr-2018 15:34:28 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'assets/modules//view.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/homecubic/public_html/universe/main.php on line 53
+[09-Apr-2018 15:34:29 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 15:34:29 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 15:34:29 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 15:34:29 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 15:34:29 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[09-Apr-2018 15:35:09 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 15:35:09 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 15:35:09 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 15:35:09 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 15:35:17 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 15:35:17 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 15:35:17 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 15:35:17 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 18:56:40 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 18:56:40 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 18:56:40 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 18:56:40 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 18:56:40 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[09-Apr-2018 18:56:51 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 18:56:51 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 18:56:51 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 18:56:51 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 18:56:57 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 18:56:57 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 18:56:57 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 18:56:57 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:02:23 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:02:23 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:02:23 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:02:23 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:02:46 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:02:46 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:02:46 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:02:46 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:03:27 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:03:27 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:03:27 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:03:27 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:04:27 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:04:27 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:04:27 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:04:27 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:10:23 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:10:23 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:10:23 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:10:23 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:10:40 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:10:40 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:10:40 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:10:40 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:10:55 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:10:55 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:10:55 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:10:55 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:11:01 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:11:01 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:11:01 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:11:01 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:11:17 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:11:17 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:11:17 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:11:17 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:11:27 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:11:27 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:11:27 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:11:27 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:28:54 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:28:54 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:28:54 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:28:54 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:29:13 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:29:13 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:29:13 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:29:13 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:32:43 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:32:43 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:32:43 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:32:43 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:32:49 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:32:49 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:32:49 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:32:49 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:33:00 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:33:00 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:33:00 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:33:00 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-Apr-2018 19:35:26 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-Apr-2018 19:35:26 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-Apr-2018 19:35:26 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-Apr-2018 19:35:26 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 13:46:58 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 13:46:58 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 13:46:58 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 13:46:58 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 13:46:58 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[10-Apr-2018 13:47:18 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 13:47:18 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 13:47:18 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 13:47:18 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 13:48:31 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 13:48:31 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 13:48:31 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 13:48:31 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 14:11:49 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 14:11:49 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 14:11:49 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 14:11:49 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 14:12:06 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 14:12:06 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 14:12:06 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 14:12:06 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 14:19:59 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 14:19:59 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 14:19:59 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 14:19:59 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 14:46:02 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 14:46:02 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 14:46:02 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 14:46:02 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 14:47:50 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 14:47:50 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 14:47:50 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 14:47:50 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Undefined index: user in /home/homecubic/public_html/universe/main.php on line 11
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/main.php on line 12
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Undefined index: rol in /home/homecubic/public_html/universe/main.php on line 13
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Undefined index: tema in /home/homecubic/public_html/universe/main.php on line 14
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Undefined index: username in /home/homecubic/public_html/universe/assets/content/sidebar.php on line 32
+[10-Apr-2018 15:31:49 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[10-Apr-2018 15:31:50 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 15:31:50 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 15:31:50 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 15:31:50 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 15:31:50 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[10-Apr-2018 15:33:06 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 15:33:06 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 15:33:06 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 15:33:06 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Undefined index: user in /home/homecubic/public_html/universe/main.php on line 11
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/main.php on line 12
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Undefined index: rol in /home/homecubic/public_html/universe/main.php on line 13
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Undefined index: tema in /home/homecubic/public_html/universe/main.php on line 14
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Undefined index: username in /home/homecubic/public_html/universe/assets/content/sidebar.php on line 32
+[10-Apr-2018 19:14:03 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[10-Apr-2018 19:14:04 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 19:14:04 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 19:14:04 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 19:14:04 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 19:14:04 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[10-Apr-2018 19:18:56 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 19:18:56 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 19:18:56 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 19:18:56 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 19:21:17 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 19:21:17 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 19:21:17 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 19:21:17 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 19:30:31 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 19:30:31 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 19:30:31 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 19:30:31 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 19:36:44 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 19:36:44 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 19:36:44 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 19:36:44 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 20:01:36 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 20:01:36 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 20:01:36 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 20:01:36 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 20:02:08 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 20:02:08 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 20:02:08 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 20:02:08 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-Apr-2018 20:10:28 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-Apr-2018 20:10:28 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-Apr-2018 20:10:28 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-Apr-2018 20:10:28 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[11-Apr-2018 02:34:17 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[11-Apr-2018 02:34:17 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[11-Apr-2018 02:34:17 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[11-Apr-2018 02:34:17 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[11-Apr-2018 02:34:17 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[16-Apr-2018 12:04:34 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[16-Apr-2018 12:04:34 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[16-Apr-2018 12:04:34 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[16-Apr-2018 12:04:34 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[16-Apr-2018 12:04:34 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 00:37:19 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[17-Apr-2018 13:34:27 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 13:34:27 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 13:34:27 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 13:34:27 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 13:34:27 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[17-Apr-2018 13:34:42 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 13:34:42 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 13:34:42 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 13:34:42 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 13:34:48 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 13:34:48 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 13:34:48 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 13:34:48 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Undefined index: user in /home/homecubic/public_html/universe/main.php on line 11
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/main.php on line 12
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Undefined index: rol in /home/homecubic/public_html/universe/main.php on line 13
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Undefined index: tema in /home/homecubic/public_html/universe/main.php on line 14
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Undefined index: panel in /home/homecubic/public_html/universe/main.php on line 15
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/homecubic/public_html/universe/assets/content/sidebar.php on line 32
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Warning:  require(assets/modules//view.php): failed to open stream: No such file or directory in /home/homecubic/public_html/universe/main.php on line 53
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Warning:  require(assets/modules//view.php): failed to open stream: No such file or directory in /home/homecubic/public_html/universe/main.php on line 53
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'assets/modules//view.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/homecubic/public_html/universe/main.php on line 53
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 14:20:04 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[17-Apr-2018 14:20:17 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 14:20:17 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 14:20:17 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 14:20:17 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 14:20:21 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 14:20:21 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 14:20:21 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 14:20:21 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 14:22:31 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 14:22:31 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 14:22:31 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 14:22:31 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 14:31:01 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 14:31:01 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 14:31:01 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 14:31:01 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:00:12 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:00:12 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:00:12 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:00:12 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:00:46 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:00:46 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:00:46 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:00:46 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:06:34 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:06:34 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:06:34 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:06:34 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:22:27 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:22:27 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:22:27 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:22:27 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:23:57 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:23:57 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:23:57 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:23:57 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:25:20 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:25:20 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:25:20 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:25:20 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:25:23 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:25:23 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:25:23 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:25:23 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:25:33 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:25:33 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:25:33 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:25:33 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:27:01 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:27:01 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:27:01 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:27:01 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:45:20 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:45:20 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:45:20 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:45:20 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:55:38 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:55:38 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:55:38 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:55:38 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 15:56:27 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 15:56:27 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 15:56:27 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 15:56:27 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:09:53 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:09:53 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:09:53 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:09:53 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:09:53 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[17-Apr-2018 18:10:36 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:10:36 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:10:36 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:10:36 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:10:36 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[17-Apr-2018 18:10:57 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:10:57 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:10:57 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:10:57 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:11:09 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:11:09 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:11:09 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:11:09 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:11:27 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:11:27 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:11:27 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:11:27 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:11:37 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:11:37 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:11:37 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:11:37 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:11:48 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:11:48 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:11:48 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:11:48 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:12:10 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:12:10 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:12:10 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:12:10 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:12:27 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:12:27 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:12:27 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:12:27 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 18:23:54 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 18:23:54 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 18:23:54 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 18:23:54 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Undefined index: user in /home/homecubic/public_html/universe/main.php on line 11
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/main.php on line 12
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Undefined index: rol in /home/homecubic/public_html/universe/main.php on line 13
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Undefined index: tema in /home/homecubic/public_html/universe/main.php on line 14
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Undefined index: panel in /home/homecubic/public_html/universe/main.php on line 15
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/homecubic/public_html/universe/assets/content/sidebar.php on line 32
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Warning:  require(assets/modules//view.php): failed to open stream: No such file or directory in /home/homecubic/public_html/universe/main.php on line 53
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Warning:  require(assets/modules//view.php): failed to open stream: No such file or directory in /home/homecubic/public_html/universe/main.php on line 53
+[17-Apr-2018 19:40:20 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'assets/modules//view.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/homecubic/public_html/universe/main.php on line 53
+[17-Apr-2018 19:40:21 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[17-Apr-2018 19:40:21 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[17-Apr-2018 19:40:21 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[17-Apr-2018 19:40:21 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[17-Apr-2018 19:40:21 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[18-Apr-2018 00:55:44 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[18-Apr-2018 00:55:44 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[18-Apr-2018 00:55:44 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[18-Apr-2018 00:55:44 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[18-Apr-2018 00:55:44 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[18-Apr-2018 13:38:21 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[18-Apr-2018 13:38:21 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[18-Apr-2018 13:38:21 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[18-Apr-2018 13:38:21 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[18-Apr-2018 13:38:21 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[18-Apr-2018 15:05:42 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[18-Apr-2018 15:05:42 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[18-Apr-2018 15:05:42 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[18-Apr-2018 15:05:42 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[18-Apr-2018 15:05:42 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[18-Apr-2018 15:40:32 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[18-Apr-2018 15:40:32 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[18-Apr-2018 15:40:32 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[18-Apr-2018 15:40:32 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[18-Apr-2018 15:40:32 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[23-Apr-2018 01:49:16 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[23-Apr-2018 01:49:16 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[23-Apr-2018 01:49:16 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[23-Apr-2018 01:49:16 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[23-Apr-2018 01:49:16 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[23-Apr-2018 01:54:15 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[23-Apr-2018 01:54:15 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[23-Apr-2018 01:54:15 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[23-Apr-2018 01:54:15 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[23-Apr-2018 01:54:15 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[26-Apr-2018 22:37:26 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[26-Apr-2018 22:37:26 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[26-Apr-2018 22:37:26 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[26-Apr-2018 22:37:26 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[26-Apr-2018 22:37:26 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[27-Apr-2018 09:10:03 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[27-Apr-2018 09:10:03 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[27-Apr-2018 09:10:03 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[27-Apr-2018 09:10:03 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[27-Apr-2018 09:10:03 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[28-Apr-2018 00:37:10 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[28-Apr-2018 00:37:10 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[28-Apr-2018 00:37:10 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[28-Apr-2018 00:37:10 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[28-Apr-2018 00:37:10 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[30-Apr-2018 16:18:56 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[30-Apr-2018 16:18:56 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[30-Apr-2018 16:18:56 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[30-Apr-2018 16:18:56 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[30-Apr-2018 16:18:57 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[30-Apr-2018 22:17:56 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[30-Apr-2018 22:17:56 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[30-Apr-2018 22:17:56 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[30-Apr-2018 22:17:56 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[30-Apr-2018 22:17:56 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[03-May-2018 02:36:56 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[03-May-2018 02:36:56 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[03-May-2018 02:36:56 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[03-May-2018 02:36:56 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[03-May-2018 02:36:56 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[03-May-2018 21:47:19 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[03-May-2018 21:47:19 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[03-May-2018 21:47:19 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[03-May-2018 21:47:19 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[03-May-2018 21:47:29 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[04-May-2018 08:05:56 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[04-May-2018 08:05:56 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[04-May-2018 08:05:56 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[04-May-2018 08:05:56 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[04-May-2018 08:05:56 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[04-May-2018 08:50:05 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[04-May-2018 08:50:05 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[04-May-2018 08:50:05 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[04-May-2018 08:50:05 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[04-May-2018 08:50:05 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[07-May-2018 19:01:12 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[07-May-2018 19:01:12 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[07-May-2018 19:01:12 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[07-May-2018 19:01:12 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[07-May-2018 19:01:12 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[08-May-2018 10:32:28 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[08-May-2018 10:32:28 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[08-May-2018 10:32:28 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[08-May-2018 10:32:28 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[08-May-2018 10:32:38 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[09-May-2018 02:47:45 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[09-May-2018 02:47:45 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[09-May-2018 02:47:45 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[09-May-2018 02:47:45 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[09-May-2018 02:47:45 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[10-May-2018 00:10:58 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-May-2018 00:10:58 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-May-2018 00:10:58 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-May-2018 00:10:58 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-May-2018 00:10:58 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[10-May-2018 06:12:29 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-May-2018 06:12:29 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-May-2018 06:12:29 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-May-2018 06:12:29 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-May-2018 06:12:29 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[10-May-2018 10:16:30 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[10-May-2018 10:16:30 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[10-May-2018 10:16:30 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[10-May-2018 10:16:30 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[10-May-2018 10:16:30 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[11-May-2018 00:08:12 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[11-May-2018 00:08:12 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[11-May-2018 00:08:12 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[11-May-2018 00:08:12 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[11-May-2018 00:08:12 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[11-May-2018 04:36:51 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[11-May-2018 04:36:51 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[11-May-2018 04:36:51 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[11-May-2018 04:36:51 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[11-May-2018 04:36:51 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[11-May-2018 06:10:19 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[11-May-2018 06:10:19 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[11-May-2018 06:10:19 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[11-May-2018 06:10:19 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[11-May-2018 06:10:19 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
+[11-May-2018 15:26:44 Etc/GMT] PHP Notice:  Constant DB_HOST already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 14
+[11-May-2018 15:26:44 Etc/GMT] PHP Notice:  Constant DB_USER already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 15
+[11-May-2018 15:26:44 Etc/GMT] PHP Notice:  Constant DB_PASSWORD already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 16
+[11-May-2018 15:26:44 Etc/GMT] PHP Notice:  Constant DB_DATABASE already defined in /home/homecubic/public_html/universe/assets/scripts/conn.php on line 17
+[11-May-2018 15:26:44 Etc/GMT] PHP Notice:  Undefined index: iduser in /home/homecubic/public_html/universe/assets/scripts/pagescripts.php on line 67
