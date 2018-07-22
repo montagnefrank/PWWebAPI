@@ -1,7 +1,7 @@
 <div class="page-sidebar page-sidebar-fixed scroll mCustomScrollbar _mCS_1 mCS-autoHide">
     <ul class="x-navigation">
         <li class="xn-logo">
-            <a href="#" gotopanel='home' class="menu_btn"> Homecubic</a>
+            <a href="#" gotopanel='users' class="menu_btn"> Homecubic</a>
             <a href="#" class="x-navigation-control"></a>
         </li>
         <li class="xn-profile">

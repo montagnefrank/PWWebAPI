@@ -1,9 +1,10 @@
 <?php
+
 ////////////////////////////////////////////////////////////////////////////////////////DEBUG EN PANTALLA
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
+//error_reporting(E_ALL);
+//ini_set('display_errors', 1);
 
-
+header("Access-Control-Allow-Origin: *");
 header('Content-type: application/javascript; charset=utf-8');
 ob_start(); // Record output
 
@@ -11,26 +12,37 @@ require ("assets/scripts/conn.php");
 $jsonp = array();
 
 if ($_GET) {
+
+    /////////////////////////////////////////////////LOGIN METHOD
     if ($_GET['meth'] == 'login') {
 
         $username = $_GET["username"];
         $password = $_GET["password"];
 
         $query = "SELECT * FROM usuario WHERE nombreUsuario = '$username'";
-        $result = $conn->query($query);
+        $result = $link->query($query);
         if (!$result)
             die($_GET['callback'] . '(' . "{'scriptResp' : 'userqueryFail'}" . ')');
         $rows = $result->num_rows;
         $result->data_seek(0);
         $row = $result->fetch_array(MYSQLI_ASSOC);
-        $jsonp = $row;
+        $jsonp['userIntel'] = $row;
 
         if (($rows != 0) && (strcmp($row["nombreUsuario"], $username) == 0) && ($row['passwordUsuario'] === $password)) {
+
+            /////////////////////////////////////////VEMOS SI TIENE IMAGEN CARGADA
+            $isavatar = "/assets/img/users/" . $username . ".jpg";
+            if (file_exists($isavatar)) {
+                $jsonp['userIntel']['userImg'] = $isavatar;
+            } else {
+                $jsonp['userIntel']['userImg'] = "defaulawdt";
+            }
 
             $jsonp['scriptResp'] = "match";
             $output = ob_get_contents();
             ob_end_clean();
             $jsonp['output'] = $output;
+            unset($jsonp['userIntel']['passwordUsuario']);
             echo $_GET['callback'] . '(' . json_encode($jsonp) . ')';
         } else {
             $jsonp['scriptResp'] = "noMatch";
@@ -51,7 +63,7 @@ if ($_GET) {
         $password = $_GET["password"];
 
         $select = "SELECT nombreUsuario FROM usuario WHERE nombreUsuario = '" . $username . "';";
-        $result = $conn->query($select) or die($_GET['callback'] . '(' . "{'scriptResp' : 'userexistqueryfail'}" . ')');
+        $result = $link->query($select) or die($_GET['callback'] . '(' . "{'scriptResp' : 'userexistqueryfail'}" . ')');
         $row_cnt = $result->num_rows;
 
         if ($row_cnt > 0) {
@@ -64,8 +76,8 @@ if ($_GET) {
             $val_select = "INSERT INTO usuario("
                     . "passwordUsuario,nombreUsuario,idPerfil,phoneUsuario,fechaingresoUsuario,nombresUsuario,vehiculoUsuario,placaUsuario,statusUsuario,temaUsuario,panelUsuario"
                     . ")  VALUES  ('" .
-                    $password . "','" . $username . "','0','" . $phone . "','" . date("Y-m-d") . "','" . $fullname . "','" . $vehicle . "','" . $plate . "','1','dark','users')";
-            $val_result = $conn->query($val_select) or die($_GET['callback'] . '(' . "{'scriptResp' : 'insertuserFail'}" . ')');
+                    $password . "','" . $username . "','1','" . $phone . "','" . date("Y-m-d") . "','" . $fullname . "','" . $vehicle . "','" . $plate . "','1','dark','users')";
+            $val_result = $link->query($val_select) or die($_GET['callback'] . '(' . "{'scriptResp' : 'insertuserFail'}" . ')');
 
             if ($val_result) {
                 $jsonp['scriptResp'] = "regsuccess";

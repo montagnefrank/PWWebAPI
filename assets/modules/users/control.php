@@ -141,7 +141,7 @@ if (isset($_POST['restartPass'])){
 
 
     if ($val_result) {
-        $msg_logo .= " Se ha restablesido la contraseña del usuario <b>" . $_POST['nombreUsuario'] . " exitosamente, la contraseña es ahora parkedwashed1234 </b>.";
+        $msg_logo .= " La contraseña de <b>" . $_POST['nombreUsuario'] . " ha sido restaurada exitosamente, ahora es parkedwashed1234 </b>.";
         echo $msg_logo;
     } else {
         echo " No pudimos restablecer la contraseña del usuario. Intente de nuevo ";
