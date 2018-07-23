@@ -124,6 +124,21 @@ if ($_POST) {
         return;
     }
 
+    // FETCH ORDER HISTORY
+    if ($_POST['meth'] == 'getOrders') {
+//        $query = "SELECT * FROM pedidos WHERE idUsuario = '" . . "'";
+        $result = $link->query($query);
+        if (!$result)
+            die("{'ajaxStatus' : 'fail'}");
+        $rows = $result->num_rows;
+        while ($row = $result->fetch_array(MYSQLI_ASSOC)) {
+            $json['vehmods'][] = $row;
+        }
+        $json['ajaxStatus'] = 'ok';
+        echo json_encode($json);
+        return;
+    }
+
     //ADD NEW VEHICLE
     if ($_POST['meth'] == 'newVehicle') {
 
@@ -176,6 +191,33 @@ if ($_POST) {
 
         $json['ajaxStatus'] = 'ok';
         echo json_encode($json);
+        return;
+    }
+
+    //ADD NEW ORDER
+    if ($_POST['meth'] == 'newOrder') {
+
+        $idUsuario = $_POST["idUser_newo"];
+        $idVeh = $_POST["veh_newo"];
+        $gps = $_POST["gps_newo"];
+        $price = $_POST["price_newo"];
+        $payment = $_POST["payment_newo"];
+
+        $val_select = "INSERT INTO pedidos ("
+                . "idUsuario,idVehicle,gpsPedido,precioPedido,pagoPedido,fechaPedido,horaPedido,statusPedido"
+                . ")  VALUES  ('" .
+                $idUsuario . "','" . $idVeh . "','" . $gps . "','" . $price . "','" . $payment . "','" . date("Y-m-d") . "','" . date("h-i-s") . "','new')";
+        $val_result = $link->query($val_select) or die("{'ajaxStatus' : 'error', 'message' : 'Query Insert Failed'}");
+
+        if ($val_result) {
+            $json['ajaxStatus'] = 'ok';
+            $json['message'] = 'New order placed';
+            echo json_encode($json);
+        } else {
+            $json['ajaxStatus'] = 'error';
+            $json['message'] = 'Could not place your order, try again';
+            echo json_encode($json);
+        }
         return;
     }
 }
