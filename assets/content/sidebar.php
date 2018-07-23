@@ -52,6 +52,7 @@
         <li class="xn-openable"><a href="#"><span class="fa fa-mobile-phone"></span><span class="xn-text"> App</span></a>
             <ul>
                 <li><a href="#" gotopanel='users' class="menu_btn"> Usuarios</a></li>
+                <li><a href="#" gotopanel='prov' class="menu_btn"> Modelos de Vehiculos</a></li>
             </ul>
         </li>  
         <li>
